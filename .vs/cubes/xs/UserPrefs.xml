@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C8AA4EFB-66FE-FA73-A539-47B9F85FFE96}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/spawnCubes.cs">
+    <Files>
+      <File FileName="Assets/rotateCube.cs" Line="30" Column="1" />
+      <File FileName="Assets/spawnCubes.cs" Line="60" Column="49" />
+      <File FileName="Assets/randomColor.cs" />
+      <File FileName="Assets/randomHeight.cs" />
+      <File FileName="Assets/TerrainGenerator.cs" />
+      <File FileName="Assets/Wireframe.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cubes" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="spawnCubes.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="591e76f5-217c-45cb-85cc-88172abc45cc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
